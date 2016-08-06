@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity name="SpaceInvaders.exe" version="1.0.0.1" publicKeyToken="76a21b21f98d8a4c" language="neutral" processorArchitecture="x86" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="SpaceInvaders" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="SpaceInvaders.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SpaceInvaders.exe" size="9858560">
+      <assemblyIdentity name="SpaceInvaders" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>e52oM3HQ4pvjMlGZYBQ/m/O5cZI=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="SpaceInvaders.exe.config" size="2639">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>WbnT9zHfixPSVn1KhoT0BfM0m90=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=RAJKM-PC\RAJKM" issuerKeyHash="29109cb4b615bf1f503e15e5075afcaa4675603c" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>wbIN4tJqCiG04hN5FQ6uK01ABXY=</DigestValue></Reference></SignedInfo><SignatureValue>YT9aj6VbUaKbKEHeG45AdTjSJwZxxTIbBseTKYa5FhWuNOdc1pVf2FYdjB/+SxMxfPGfLbrNrJWPLgnFqMPVDh41NNOc0NZf7uNdIUbqKgWHp4O9QwUfiWmQJcijba9dOMK4rUxAcdJoJPdxHxPYOcCMM5ZH8GVR82an+HamfQg=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>u8ZaTYs2qBzsBtrgyJ0LQZBl3m+NCJMS891K62iJJskX+sl0IbBeFSN4qbua473cIi7KEyFH1OfPqcEfHK5/rY9Uw7H8lf9kbkToSS2vUBpXdslb7U5O2yWlajzAjl7b3xKBWOqFn715P/DP+iRkW4Ns4qvMwqJNBq8nEmWgYJU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="7605404d2bae0e157913e2b4210a6ad2e20db2c1" Description="" Url=""><as:assemblyIdentity name="SpaceInvaders.exe" version="1.0.0.1" publicKeyToken="76a21b21f98d8a4c" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=RAJKM-PC\RAJKM</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>QoVr1ted1cjl0ag6eBGgwcA+AQ4=</DigestValue></Reference></SignedInfo><SignatureValue>AI26CR5HasbHKpQ6JO6TaOYKrEPQ7jDLkQq8UWi1Xxu9LbTEJJKjHByH6B1nx3fAD6cq11PVhUiXVHgkkY2K9g+R703c5fc1efEz2kCuIXeb+s6qaw4dBVAqpwYg5X/veeQK20vb9kR3IYfNEOadF0SS+MUZovpYjjBB07LB2Z0=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>u8ZaTYs2qBzsBtrgyJ0LQZBl3m+NCJMS891K62iJJskX+sl0IbBeFSN4qbua473cIi7KEyFH1OfPqcEfHK5/rY9Uw7H8lf9kbkToSS2vUBpXdslb7U5O2yWlajzAjl7b3xKBWOqFn715P/DP+iRkW4Ns4qvMwqJNBq8nEmWgYJU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB0TCCATqgAwIBAgIQL60fbojKkbtE4o+JzLQ/VTANBgkqhkiG9w0BAQUFADAnMSUwIwYDVQQDHhwAUgBBAEoASwBNAC0AUABDAFwAUgBBAEoASwBNMB4XDTEyMDYxNzAzNDA0MloXDTEzMDYxNzA5NDA0MlowJzElMCMGA1UEAx4cAFIAQQBKAEsATQAtAFAAQwBcAFIAQQBKAEsATTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAu8ZaTYs2qBzsBtrgyJ0LQZBl3m+NCJMS891K62iJJskX+sl0IbBeFSN4qbua473cIi7KEyFH1OfPqcEfHK5/rY9Uw7H8lf9kbkToSS2vUBpXdslb7U5O2yWlajzAjl7b3xKBWOqFn715P/DP+iRkW4Ns4qvMwqJNBq8nEmWgYJUCAwEAATANBgkqhkiG9w0BAQUFAAOBgQBt+F3NBlN1T9V5FIS4Yg5yfb6BQwV3r3P6pq1FcUF1zgJIHoOgOcmX3J2YyiImgvLt81bWxNFCBWtivxvm5/l2wueqqerOxlYB7KQtzuCAm0ehWZxCuethRlR4vYQk9c1eyzqjZ+xxhpoUOkmFjW6fDWb2aasqSz/GqVdRqCEyrw==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

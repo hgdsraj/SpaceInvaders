@@ -1,0 +1,13 @@
+C:\Documents and Settings\076-rmahey\Local Settings\Application Data\Temporary Projects\SpaceInvaders\bin\Release\SpaceInvaders.exe
+C:\Documents and Settings\076-rmahey\Local Settings\Application Data\Temporary Projects\SpaceInvaders\bin\Release\SpaceInvaders.pdb
+C:\Documents and Settings\076-rmahey\Local Settings\Application Data\Temporary Projects\SpaceInvaders\bin\Release\SpaceInvaders.xml
+C:\Documents and Settings\076-rmahey\Local Settings\Application Data\Temporary Projects\SpaceInvaders\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\076-rmahey\Local Settings\Application Data\Temporary Projects\SpaceInvaders\obj\x86\Release\SpaceInvaders.Resources.resources
+C:\Documents and Settings\076-rmahey\Local Settings\Application Data\Temporary Projects\SpaceInvaders\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\076-rmahey\Local Settings\Application Data\Temporary Projects\SpaceInvaders\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\076-rmahey\Local Settings\Application Data\Temporary Projects\SpaceInvaders\obj\x86\Release\SpaceInvaders.exe
+C:\Documents and Settings\076-rmahey\Local Settings\Application Data\Temporary Projects\SpaceInvaders\obj\x86\Release\SpaceInvaders.xml
+C:\Documents and Settings\076-rmahey\Local Settings\Application Data\Temporary Projects\SpaceInvaders\obj\x86\Release\SpaceInvaders.pdb
+C:\Documents and Settings\076-rmahey\my documents\visual studio 2010\Projects\SpaceInvaders\SpaceInvaders\obj\x86\Release\SpaceInvaders.exe
+C:\Documents and Settings\076-rmahey\my documents\visual studio 2010\Projects\SpaceInvaders\SpaceInvaders\obj\x86\Release\SpaceInvaders.xml
+C:\Documents and Settings\076-rmahey\my documents\visual studio 2010\Projects\SpaceInvaders\SpaceInvaders\obj\x86\Release\SpaceInvaders.pdb

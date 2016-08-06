@@ -1,0 +1,13 @@
+C:\Users\RAJKM\Documents\Visual Studio 2010\SpaceInvaders\SpaceInvaders\bin\x64\Debug\SpaceInvaders.exe
+C:\Users\RAJKM\Documents\Visual Studio 2010\SpaceInvaders\SpaceInvaders\bin\x64\Debug\SpaceInvaders.pdb
+C:\Users\RAJKM\Documents\Visual Studio 2010\SpaceInvaders\SpaceInvaders\obj\x64\Debug\ResolveAssemblyReference.cache
+C:\Users\RAJKM\Documents\Visual Studio 2010\SpaceInvaders\SpaceInvaders\obj\x64\Debug\SpaceInvaders.frmGame.resources
+C:\Users\RAJKM\Documents\Visual Studio 2010\SpaceInvaders\SpaceInvaders\obj\x64\Debug\SpaceInvaders.frmHelp.resources
+C:\Users\RAJKM\Documents\Visual Studio 2010\SpaceInvaders\SpaceInvaders\obj\x64\Debug\SpaceInvaders.frmLose.resources
+C:\Users\RAJKM\Documents\Visual Studio 2010\SpaceInvaders\SpaceInvaders\obj\x64\Debug\SpaceInvaders.frmMenu.resources
+C:\Users\RAJKM\Documents\Visual Studio 2010\SpaceInvaders\SpaceInvaders\obj\x64\Debug\SpaceInvaders.frmStory.resources
+C:\Users\RAJKM\Documents\Visual Studio 2010\SpaceInvaders\SpaceInvaders\obj\x64\Debug\SpaceInvaders.Resources.resources
+C:\Users\RAJKM\Documents\Visual Studio 2010\SpaceInvaders\SpaceInvaders\obj\x64\Debug\GenerateResource.read.1.tlog
+C:\Users\RAJKM\Documents\Visual Studio 2010\SpaceInvaders\SpaceInvaders\obj\x64\Debug\GenerateResource.write.1.tlog
+C:\Users\RAJKM\Documents\Visual Studio 2010\SpaceInvaders\SpaceInvaders\obj\x64\Debug\SpaceInvaders.exe
+C:\Users\RAJKM\Documents\Visual Studio 2010\SpaceInvaders\SpaceInvaders\obj\x64\Debug\SpaceInvaders.pdb
