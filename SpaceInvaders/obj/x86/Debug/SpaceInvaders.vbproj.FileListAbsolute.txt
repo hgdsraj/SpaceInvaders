@@ -93,3 +93,18 @@ C:\Users\Raj Mahey\Documents\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders
 C:\Users\Raj Mahey\Documents\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.exe
 C:\Users\Raj Mahey\Documents\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.xml
 C:\Users\Raj Mahey\Documents\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.pdb
+C:\Users\rajkm\Documents\GitHub\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.exe.config
+C:\Users\rajkm\Documents\GitHub\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.exe
+C:\Users\rajkm\Documents\GitHub\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.xml
+C:\Users\rajkm\Documents\GitHub\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.pdb
+C:\Users\rajkm\Documents\GitHub\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.vbprojResolveAssemblyReference.cache
+C:\Users\rajkm\Documents\GitHub\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.frmGame3.resources
+C:\Users\rajkm\Documents\GitHub\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.frmGame2.resources
+C:\Users\rajkm\Documents\GitHub\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.frmGame.resources
+C:\Users\rajkm\Documents\GitHub\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.frmHelp.resources
+C:\Users\rajkm\Documents\GitHub\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.frmLose.resources
+C:\Users\rajkm\Documents\GitHub\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.frmMenu.resources
+C:\Users\rajkm\Documents\GitHub\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.frmSelect.resources
+C:\Users\rajkm\Documents\GitHub\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.frmStory.resources
+C:\Users\rajkm\Documents\GitHub\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.frmWin.resources
+C:\Users\rajkm\Documents\GitHub\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.vbproj.GenerateResource.Cache
